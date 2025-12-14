@@ -1,1 +1,4 @@
-TEST MEMK1
+ZX_MOD V1
+hks
+bjs
+bns

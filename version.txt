@@ -1,4 +1,1 @@
-ISAR JANDAMEMEK
-hek
-hsk
-hsks
+JANDA V1.0

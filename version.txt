@@ -1,6 +1,1 @@
-TYANMOD_3.1
-hdm
-jdjd
-hdjd
-hdjd
-jsj
+1.0_TYANMOD

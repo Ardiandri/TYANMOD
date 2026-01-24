@@ -1,5 +1,1 @@
-TYANMODS 6.0FIX
-gahs
-gdjs
-gakl
-hd
+7.0 TYANMODS
